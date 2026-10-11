@@ -14,6 +14,10 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
+# IntelliJ IDEA (local IDE config with absolute paths - do not version)
+.idea/
+*.iml
+
 # Eclipse Gradle plugin generated files
 # Eclipse Core
 .project
